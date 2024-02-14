@@ -26,4 +26,5 @@ An http request is an object that comes from the client side and is often is "wh
 - Protocol(`req.protocol`):
     Represents the protocol used for the request, such as 'http' or 'https'
 
-Although these are common parts of the request object, the exact structure of the object can vary based of the web frame work. 
+Although these are common parts of the request object, the exact structure of the object can vary based of the web frame work.
+
