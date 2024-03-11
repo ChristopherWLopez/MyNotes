@@ -1,6 +1,6 @@
 # Xcode
 
-What is a type : its a type something is 
+What is a type : its a type something is
 
 Int is a number
 
@@ -41,3 +41,10 @@ These are the basic types that we can use in swift, however there are instance w
 
 Swift is able to infer the type of variable we are create. Type inference works most of the time
 
+## Variables and Constants
+
+variables and constants "capture a value"
+
+a constants (``let``)are immutible and are often a "safty feature" it also offers a bit of performance perl since a variable can be changed and that possibiliy needs to taken into consideration.
+
+A ``var`` is something that can be changed there for if you have a variable that is likely to be updated it is wise to use ``var``
