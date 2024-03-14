@@ -100,15 +100,15 @@ however it has great performance. When trying to search for a specific item it w
 
 A collection of items has labels that have ``key:value`` "pairs".
 
-    ``
     let devices: [String: String] = [:]
-        <!-- what type your key is and what type your value is we have declare this inside of an empty square bracket where the items are sperated by a colon -->
-    ``
+        what type your key is and what type your value is we have declare this inside of an empty square bracket where the items are sperated by a colon
 
         We are able to look up specific items of a dictionary.
-        ``let devices: [String: String]=[
+        let devices: [String: String]=[
               "phone":"Iphone 8s",
               "cat": "Kitty",
-              ] 
-              devices["phone"] => "Iphone 8s"
-              ``
+] 
+              devices["phone"]  "Iphone 8s"
+
+We know the key so we know the exact location of the item we are looking for. Its a good way to store a collection of information with keys attached
+
