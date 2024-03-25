@@ -107,8 +107,7 @@ A collection of items has labels that have ``key:value`` "pairs".
         let devices: [String: String]=[
               "phone":"Iphone 8s",
               "cat": "Kitty",
-] 
+]
               devices["phone"]  "Iphone 8s"
 
 We know the key so we know the exact location of the item we are looking for. Its a good way to store a collection of information with keys attached
-

@@ -27,6 +27,6 @@ the parameter label (firstNumber and secondNumber) gets used within the scope.
 
 ## If / Else statement
 
-basic logic. 
+basic logic.
 
 "if this then that"
